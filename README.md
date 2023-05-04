@@ -2,7 +2,7 @@
 
 A brief description of what this project does and who it's for
 
-> ### Chirrrp Laravel codebase
+> ### YOUR_PROJECT_FOLDER_NAME Laravel codebase
 
 This repo is functionality complete — PRs and issues welcome!
 
